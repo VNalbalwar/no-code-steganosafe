@@ -18,12 +18,11 @@ export default function Home() {
           className="text-center space-y-6 max-w-4xl mx-auto px-4"
         >
           <h1 className="text-4xl md:text-6xl font-bold tracking-tighter">
-            Secure Your Messages with
+          🔒Secure Your Messages📩
             <span className="text-primary block mt-2">LSB Steganography</span>
           </h1>
-          <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
-            Hide your sensitive messages within innocent-looking images using
-            cutting-edge LSB steganography techniques.
+          <p className="text-lg md:text-xl text-muted-foreground max-w-xl mx-auto">
+          Hide your words, no need to shout, in images 📸 where they can't get out 
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4 pt-4">
             <Button asChild size="lg" className="w-full sm:w-auto">
